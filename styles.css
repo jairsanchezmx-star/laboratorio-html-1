@@ -1,0 +1,25 @@
+body{
+    margin:0; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    padding: 20px;
+}
+.header_title{
+    color:beige;
+}
+.header2_title{
+   color: pink; 
+}
+h2, p{
+    margin-bottom: 10px;
+}
+.card{
+    border: solid 5px orange; /*Borde*/
+    padding: 15px; /*Espacio interno*/
+    margin: 10px 0; /*Espacio externo*/
+    width: 200px;
+}
+.card--highligth{
+    background-color: beige;
+}
